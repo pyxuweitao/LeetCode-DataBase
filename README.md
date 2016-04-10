@@ -1,2 +1,3 @@
 # LeetCode-DataBase
-LeetCode-DataBase
+
+- SQL Dialect:`MySQL` 
